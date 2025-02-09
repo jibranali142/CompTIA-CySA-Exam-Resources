@@ -1,7 +1,6 @@
 # CompTIA-CySA-Exam-Resources
-CompTIA CySA+ Exam Resources
 
-All the required resources eJPT Exam:
+All the required resources CySA+ Exam:
 
 Jason Dions Udemy Course: https://www.udemy.com/course/comptia-cysa-003/
 
